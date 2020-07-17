@@ -19,28 +19,12 @@
 - [CSS](https://gitlab.devpack.cc/Jasonyen_Chang/frontend_training/blob/master/css.md)
 - [React JS](https://gitlab.devpack.cc/Jasonyen_Chang/frontend_training/blob/master/react.md)
 
-## 時程
 
-|課程       |後端     |前端(全部)| 前端(有其他前端經驗)| 前端(有js經驗)
-|-----     |--------|--------  |--------          |-------- 
-|javascript| 10     |3         |---               |---
-|html & css| ---    |2         |---               |3
-|react     | ---    |5         | 10               |7
-
-
-## 時間 4/10 ~ 4 /24 
+## 時間 7/20 ~ 7/31 
 
 |成員       |javascript     |HTML| CSS | React |
 |-----     |--------|--------  |--------          |-------- 
-|Bill   |  4/24  | ---         |---               |---
-|Dylan| 4/24 | ---        |---               | ---
-|Dory     | 4/24    | ---          |  ---                | --- 
-|Alston     | 4/~    | ---          |  ---                | 4/22 (後續會有Code Review 4/24)
-|Manhattan     | 4/14    |4/16      | 4/16              |4/22 (後續會有Code Review 4/24)
-|Joey     | 4/14    | 4/ 16         | 4/16             |4/22 (後續會有Code Review 4/24)
-|Irene     | 7/6    | 7/8         | 7/8             |7/17 
-|Sky     | 7/6    | 7/8         | 7/8             |7/17 
-|Chester     | ---    | 7/24         | 7/24             |7/31 
+|student     | 7/22    | 7/24         | 7/24             |7/31 
 
  > ** 有空閒時間可以去學其他課程
 
@@ -49,12 +33,10 @@
 - 主要以線上課程為主
 - 部分課程會加上文章閱讀
 - 前端最後會有一個練習題
-    - 學員專屬資料夾，以學員名稱為主 (例如：jimmy_hou)
-    - 開發過程中要上code，需要發MR。
 
 ## 作業(For 前端)： 請使用到目前為止所學的全部技能，做一個TODO LIST 出來
 
-![https://medium.com/@walkccc/build-a-todo-list-app-with-react-hooks-and-context-a7f8e9f158af](https://gitlab.devpack.cc/Jasonyen_Chang/frontend_training/raw/master/react_todolist.png)
+![https://medium.com/@walkccc/build-a-todo-list-app-with-react-hooks-and-context-a7f8e9f158af](react_todolist.png)
 
 #### 檢核項目
 - 請使用 functional component及hook概念來實作
